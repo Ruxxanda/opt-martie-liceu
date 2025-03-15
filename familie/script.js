@@ -120,6 +120,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "Pentru puterea ei", 
             "Pentru că mă face să râd", 
             "Pentru că este un exemplu de urmat",
+            "Pentru că mereu mă încurajează să fiu cel mai bun(ă) versiune a mea",
             "Pentru că pur și simplu TE IUBESC! ❤️"
         ];
 
