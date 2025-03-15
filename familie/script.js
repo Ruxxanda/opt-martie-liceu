@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "Pentru că mă înveți să fiu recunoscătoare pentru tot ce am.",
             "Pentru că mă inspiri să fiu o persoană mai bună.",
             "Pentru că îmi arăți zilnic cât de mult mă iubești.",
-            "Pentru că mă faci să mă simt norocos(oasă).",
+            "Pentru că mă faci să mă simt norocos.",
             "Pentru că ești un exemplu pentru mine.",
             "Pentru că mă înveți să iubesc viața.",
             "Pentru că ai mereu grijă de mine.",
