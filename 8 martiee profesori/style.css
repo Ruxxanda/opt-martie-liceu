@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&display=swap');
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff9e6;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background: #fdf2d1;
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #c47f00;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #c47f00;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #995700;
+}
+
+.intro {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.scrisoare {
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.scrisoare p {
+    margin: 10px 0;
+}
+
+
+.lista-profesoare {
+    list-style: none;
+    padding: 0;
+}
+
+.lista-profesoare li {
+    margin: 10px 0;
+}
+
+.lista-profesoare a {
+    text-decoration: none;
+    font-size: 1.2em;
+    color: #c47f00;
+    font-weight: bold;
+}
+
+.lista-profesoare a:hover {
+    text-decoration: underline;
+}
+
+.surpriza {
+    margin-top: 20px;
+}
+
+.floare {
+    background: none;
+    border: none;
+    font-size: 2em;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.floare:hover {
+    transform: scale(1.2);
+}
+
+.mesaj {
+    font-weight: bold;
+    color: #c47f00;
+    margin-top: 10px;
+}
+
+.back {
+    display: block;
+    margin-top: 20px;
+    font-size: 1em;
+    color: #c47f00;
+    text-decoration: none;
+}
+
+.back:hover {
+    text-decoration: underline;
+}
